@@ -1,0 +1,16 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.opencv"
+4    android:versionCode="34110"
+5    android:versionName="3.4.11" > <!-- <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="21" /> -->
+6    <uses-sdk
+7        android:minSdkVersion="26"
+7-->C:\Users\sujit\AndroidStudioProjects\camscan2\openCVLibrary3411\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="30" />
+8-->C:\Users\sujit\AndroidStudioProjects\camscan2\openCVLibrary3411\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.CAMERA" />
+10-->C:\Users\sujit\AndroidStudioProjects\camscan2\openCVLibrary3411\src\main\AndroidManifest.xml:6:5-64
+10-->C:\Users\sujit\AndroidStudioProjects\camscan2\openCVLibrary3411\src\main\AndroidManifest.xml:6:22-62
+11
+12</manifest>
